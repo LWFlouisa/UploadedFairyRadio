@@ -1,5 +1,5 @@
 ---
-title: "My Experience With Rivers, Trees, And Spacemen PART ONE"
+title: "My Experience With Rivers, Trees, And Spacemen"
 author: "S.R. Weaver"
 tags: greyaliens nightterrors trees rivers runawat
 ---
