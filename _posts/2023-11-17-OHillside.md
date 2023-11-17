@@ -8,7 +8,8 @@ give me strength to reside.<br />
 O Hillside<br />
 mount of demon spawn in caverns<br />
 below the land near the shore.<br />
-Moonlight all the year long.
+Moonlight all the year long.<br />
+O Hillside.
 
 O my hillside<br />
 with your overlook...<br />
@@ -19,7 +20,8 @@ give me strength to reside.<br />
 O Hillside<br />
 mount of demon spawn in caverns<br />
 below the land near the shore.<br />
-Moonlight all the year long.
+Moonlight all the year long.<br />
+O Hillside.
 
 And on mountain<br />
 where I see the sea crash,<br />
