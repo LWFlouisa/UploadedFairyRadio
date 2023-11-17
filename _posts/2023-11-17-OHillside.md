@@ -3,6 +3,8 @@ title: "O Hillside: A Haiku and Rondelet Hybrid"
 author: "S.R. Weaver"
 tags: rondelet haiku hybridpoetry whispersinging
 ---
+<iframe title="O Hillside" src="https://video.ploud.jp/videos/embed/0b60a1f3-2ebd-463d-9ae1-300cc5a42e90" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
+
 O Hillside<br />
 give me strength to reside.<br />
 O Hillside<br />
