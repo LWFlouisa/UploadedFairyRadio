@@ -5,6 +5,11 @@ tags: ThePatakisWeek SpecificPoint
 ---
 <i>Written specifically to make a point why I don't generally do fan fiction.</i>
 
+<audio controls>
+  <source src="" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio> 
+
 Mr. Pataki was surprised by how quickly Arnold learned the ins and out of his profession. And how he developed the reputation of being able to solve whatever bugs their computers head, without having to involve a professional mechanic.
 
 Although he had never been close to Helga, Mr. Pataki knew that she was constantly on Shortman’s mind after his daughter passed on. He had warned his wife about not drinking and driving, but she never listened. When Arnold plugged into the thumb drive into the port, every day felt like he was in the car with Helga before crashes head on into a speeding eighteen wheeler. And after a suddem flash of light, he passed out.
