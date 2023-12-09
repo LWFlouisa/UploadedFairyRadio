@@ -5,6 +5,8 @@ tags: ThePatakisWeek SpecificPoint
 ---
 <i>Written specifically to make a point why I don't generally do fan fiction.</i>
 
+![Arnaldo](https://github.com/LWFlouisa/UploadedFairyRadio/blob/main/Audio/TheMemoryOfTheLostHelga/coverart.png?raw=true)
+
 <audio controls>
   <source src="https://lwflouisa.github.io/UploadedFairyRadio/Audio/TheMemoryOfTheLostHelga/audioversion.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
