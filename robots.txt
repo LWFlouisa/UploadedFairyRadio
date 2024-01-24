@@ -1,2 +1,23 @@
 User-agent: GPTBot
-Disallow: /
+Disallow: /_posts
+Disallow: /Images
+Disallow: /images
+Disallow: /Draft
+Disallow: /drafts
+Disallow: /Audio
+
+User-agent: ChatGPT-User
+Disallow: /_posts
+Disallow: /Images
+Disallow: /images
+Disallow: /Draft
+Disallow: /drafts
+Disallow: /Audio
+
+User-agent: CCBot
+Disallow: /_posts
+Disallow: /Images
+Disallow: /images
+Disallow: /Draft
+Disallow: /drafts
+Disallow: /Audio
