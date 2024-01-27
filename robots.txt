@@ -29,3 +29,11 @@ Disallow: /images
 Disallow: /Draft
 Disallow: /drafts
 Disallow: /Audio
+
+User-agent: Google-Extended
+Disallow: /_posts
+Disallow: /Images
+Disallow: /images
+Disallow: /Draft
+Disallow: /drafts
+Disallow: /Audio
